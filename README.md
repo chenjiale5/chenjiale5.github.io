@@ -1,37 +1,17 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/chenjiale5/chenjiale5.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am a postgraduate student in School of Automataion, China University of Geosciences(CUG). Before that, I studied as an undergraduate in JiangHan University from 2013 to 2017.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Research Interests
 
-### Markdown
+Computer Vision, Human-computer Interaction, etc.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Publication Link
 
-```markdown
-Syntax highlighted code block
+6DoF Pose Estimation of Transparent Object from a Single RGB-D Image (link will coming soon)
 
-# Header 1
-## Header 2
-### Header 3
+### Contact
+chenjiale@cug.edu.cn
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chenjiale5/chenjiale5.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Last update: 2020-10-29
