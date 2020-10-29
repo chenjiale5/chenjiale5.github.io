@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Chen Jiale's personal Page
 
 I am a postgraduate student in School of Automataion, China University of Geosciences(CUG). Before that, I studied as an undergraduate in JiangHan University from 2013 to 2017.
 
